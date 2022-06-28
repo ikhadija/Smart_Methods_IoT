@@ -1,0 +1,17 @@
+// Install Arduino IDE
+// open Arduino
+// File --> Preferences --> Additional Boards Manager URLs: install package esp23
+// Tools --> Board Aurdino Uno --> Board Manager -- > search ESP32 ans install 
+// Tools --> Port --> COM6 --> check the port
+// Board Aurdino Uno --> ESP32 Dev Module 
+
+void setup(){
+    pinMode(LED_BUILTIN,OUTPUT);
+}
+void loop(){
+   digitalWrite(LED_BUILTIN,HIGH);
+   delay(100);
+   digitalWrite(LED_BUILTIN,LOW);
+   delay(100);
+}
+// code in File --> example --> blink

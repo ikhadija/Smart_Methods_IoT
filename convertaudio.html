@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        body{
+            background-color: rosybrown;
+            font-family: Arial;
+            color:rgb(242, 242, 248);
+        }
+        #convert_text{
+            margin-top: 12em;
+            margin-left: 35em;
+            width: 40em;
+            height: 30em;
+            border-radius: 10px;
+        }
+        #click_to_convert{
+            width: 7em;
+            height: 3em;
+            margin-left: 53em;
+            border-radius: 10px;
+        }
+        #text{
+            text-align: center;
+        }
+    </style>
+<head>
+    <title>Convert audio to text</title>
+</head>
+<body>
+    <h1 id="text">Convert audio to text</h1>
+    <textarea id="convert_text"></textarea><br><br>
+    <button id="click_to_convert">START</button>
+</body>
+<script>
+    click_to_convert.addEventListener('click',function(){
+        var speech = true;
+        window.SpeechRecognition = window.webkitSpeechRecognition;
+        const recognition = new SpeechRecognition();
+        recognition.interimResults = true;
+
+        recognition.addEventListener('result',e=>{
+            const transcript = Array.from(e.results)
+            .map(result =>result[0])
+            .map(result => result.transcript)
+
+            convert_text.innerHTML = transcript;
+        })
+        if(speech == true ){
+            recognition.start();
+        }
+    })
+</script>
+</html>
