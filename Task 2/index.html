@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <title>speech to text </title>
+    <style>
+        body{
+            background-color: rosybrown;
+            font-family: Arial;
+            color:rgb(242, 242, 248);
+        }
+        #convert_text{
+            margin-top: 12em;
+            margin-left: 35em;
+            width: 40em;
+            height: 30em;
+            border-radius: 10px;
+        }
+        #click_to_convert,
+        #start-btn{
+            width: 7em;
+            height: 3em;
+            margin-left: 53em;
+            border-radius: 10px;
+        }
+        #text{
+            text-align: center;
+        }
+    </style>
+  </head>
+
+  <body>
+      <h1 id="text">Speech to Text</h1>
+        <textarea id="convert_text"></textarea>
+        <button id="start-btn">  Start </button> <br><br>
+        <button onclick="onConnectUsb()" id="click_to_convert">  connect </button>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="script.js"></script>
+    <script src="arduino.js"></script>
+    <script></script>
+  </body>
+</html>
