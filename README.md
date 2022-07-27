@@ -17,6 +17,8 @@ Smart-Methods summer training program 2022 - (Internet of Things)
 ## Task 3 :
 [ sensor ](https://github.com/ikhadija/Smart_Methods_IoT/tree/master/Task3) - The web page works by using a get method that requests a sensor value and links it to a database
 
+ ### Result 
+ 
 <img width="800" height="500" alt="Screen Shot 1443-12-28 at 12 38 00 PM" src="https://user-images.githubusercontent.com/107802390/181218735-24cb6f3f-2c9e-4294-9115-690bed4ed8b5.png">
 <img width="800" height="500"  alt="Screen Shot 1443-12-28 at 12 38 15 PM" src="https://user-images.githubusercontent.com/107802390/181218759-56543346-f7b6-4537-8600-a228f3b57cdc.png"><img width="321" alt="Screen Shot 1443-12-28 at 12 50 07 PM" src="https://user-images.githubusercontent.com/107802390/181218778-0de63164-1e7c-4953-88be-683b7b33db3a.png">
 
