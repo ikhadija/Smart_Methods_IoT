@@ -27,7 +27,7 @@
     <?php
     $SERVER ="localhost:3308";
     $username="root";
-    $password="kad14211421";
+    $password="";
     $dbname="sensor";
 
     $conn=mysqli_connect($SERVER,$username,$password,$dbname);
