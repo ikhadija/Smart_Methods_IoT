@@ -47,10 +47,10 @@
     $sql = "SELECT * FROM sensor";
     $result =  mysqli_query($conn, $sql);
     echo "<table border='1'>";
-    while ($row = mysqli_fetch_assoc($result)) { // Important line !!! Check summary get row on array ..
+    while ($row = mysqli_fetch_assoc($result)) { 
         echo "<tr>";
-        foreach ($row as $field => $value) { // I you want you can right this line like this: foreach($row as $value) {
-            echo "<td>" . $value . "</td>"; // I just did not use "htmlspecialchars()" function.
+        foreach ($row as $field => $value) { 
+            echo "<td>" . $value . "</td>"; 
         }
         echo "</tr>";
     }
