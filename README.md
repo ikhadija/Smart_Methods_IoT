@@ -23,7 +23,7 @@ Smart-Methods summer training program 2022 - (Internet of Things)
 <img width="800" height="500"  alt="Screen Shot 1443-12-28 at 12 38 15 PM" src="https://user-images.githubusercontent.com/107802390/181218759-56543346-f7b6-4537-8600-a228f3b57cdc.png"><img width="321" alt="Screen Shot 1443-12-28 at 12 50 07 PM" src="https://user-images.githubusercontent.com/107802390/181218778-0de63164-1e7c-4953-88be-683b7b33db3a.png">
 
 ## Task 4 :
-[ robot_movement ](https://github.com/ikhadija/Smart_Methods_IoT/tree/master/Task4) - Web page to control the direction of the robot movement and link it to a database Example : when you click on the forward button, the letter f will be stored in the database
+[ robot_movement ](https://github.com/ikhadija/Smart_Methods_IoT/tree/master/Task4) - Web page to control the direction of the robot movement and link it to a database Example : when you click on the forward button, the letter F will be stored in the database
 
 ### Result 
 <img width="800" height="500" alt="Screen Shot 1444-01-05 at 9 25 14 PM" src="https://user-images.githubusercontent.com/107802390/182693564-d505bb68-24e3-4e32-a564-edb3db600340.png">
