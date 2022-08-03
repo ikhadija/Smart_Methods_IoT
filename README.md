@@ -28,6 +28,5 @@ Smart-Methods summer training program 2022 - (Internet of Things)
 ### Result 
 <img width="800" height="500" alt="Screen Shot 1444-01-05 at 9 25 14 PM" src="https://user-images.githubusercontent.com/107802390/182693564-d505bb68-24e3-4e32-a564-edb3db600340.png">
 <img width="800" height="500" alt="Screen Shot 1444-01-05 at 10 13 28 PM" src="https://user-images.githubusercontent.com/107802390/182693836-3b779bb1-7eff-41f7-b2f5-6db2415a0613.png">
-
-
+<img width="814" alt="Screen Shot 1444-01-05 at 10 14 57 PM" src="https://user-images.githubusercontent.com/107802390/182694012-43bbf55a-5e80-4e54-8397-1ca682a573ea.png">
 
