@@ -22,3 +22,12 @@ Smart-Methods summer training program 2022 - (Internet of Things)
 <img width="800" height="500" alt="Screen Shot 1443-12-28 at 12 38 00 PM" src="https://user-images.githubusercontent.com/107802390/181218735-24cb6f3f-2c9e-4294-9115-690bed4ed8b5.png">
 <img width="800" height="500"  alt="Screen Shot 1443-12-28 at 12 38 15 PM" src="https://user-images.githubusercontent.com/107802390/181218759-56543346-f7b6-4537-8600-a228f3b57cdc.png"><img width="321" alt="Screen Shot 1443-12-28 at 12 50 07 PM" src="https://user-images.githubusercontent.com/107802390/181218778-0de63164-1e7c-4953-88be-683b7b33db3a.png">
 
+## Task 4 :
+[ robot_movement ](https://github.com/ikhadija/Smart_Methods_IoT/tree/master/Task4) - Web page to control the direction of the robot movement and link it to a database Example : when you click on the forward button, the letter f will be stored in the database
+
+### Result 
+<img width="800" height="500" alt="Screen Shot 1444-01-05 at 9 25 14 PM" src="https://user-images.githubusercontent.com/107802390/182693564-d505bb68-24e3-4e32-a564-edb3db600340.png">
+<imgwidth="800" height="500" alt="Screen Shot 1444-01-05 at 10 13 28 PM" src="https://user-images.githubusercontent.com/1<img width="800" height="500" alt="Screen Shot 1444-01-05 at 10 14 57 PM" src="https://user-images.githubusercontent.com/107802390/182693609-5d0c3370-3686-4308-b2bb-65101ddb684d.png">
+07802390/182693592-e64a957a-0b10-4fcb-85cb-c3aedadf55af.png">
+
+
