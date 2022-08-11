@@ -30,3 +30,9 @@ Smart-Methods summer training program 2022 - (Internet of Things)
 <img width="800" height="500" alt="Screen Shot 1444-01-05 at 10 13 28 PM" src="https://user-images.githubusercontent.com/107802390/182693836-3b779bb1-7eff-41f7-b2f5-6db2415a0613.png">
 <img width="814" alt="Screen Shot 1444-01-05 at 10 14 57 PM" src="https://user-images.githubusercontent.com/107802390/182694012-43bbf55a-5e80-4e54-8397-1ca682a573ea.png">
 
+## Task 5 :
+[ chatbot ](https://github.com/ikhadija/Smart_Methods_IoT/tree/master/Task5) - creating a chatbot to ask questions about the app. This is done by using IBM Waston Assistan
+
+### Result 
+<img width="800" height="500" alt="Screen Shot 1444-01-13 at 10 37 54 PM" src="https://user-images.githubusercontent.com/107802390/184225776-a8c0ddd3-02c8-4fdb-a53a-8703bdaa6119.png">
+
